@@ -13,8 +13,8 @@
 
 <h2>⭐ Interests</h2>
 
-- 🌏 Travelling. Lived in 10 countries 
-- 👾 Playing FPS videogames
+- 🌏 Travelling | Lived in 10 countries 
+- 👾 FPS videogames
 - 🏠 Architecture and interior designing 
 - 🏹 Archery
 
