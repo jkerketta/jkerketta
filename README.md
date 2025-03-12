@@ -8,7 +8,7 @@
   - [IB Repository](https://github.com/jkerketta/IBRepo)
 - <b>Netflix Landing Page (HTML, CSS, and Javascript)</b>
   - [Netflix Landing Page Clone](https://github.com/jkerketta/netflixlandingpage)
-- <b>Weather App (HTML, CSS, and Javascript)</b>
+- <b>Weather App (HTML, CSS, Javascript, OpenWeatherMap API)</b>
   - [Simple Weather App](https://github.com/jkerketta/weatherapplication)
 
 <h2>⭐ Interests</h2>
