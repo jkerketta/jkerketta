@@ -21,7 +21,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<b>Gmail: jose.kerketta@queensu.ca</b>
+<b>E: jose.kerketta@queensu.ca</b>
 
 <b>LinkedIn: </b>
 [<img alt="JoseKerketta | LinkedIn" width="22px" src="https://img.icons8.com/ios7/512/228BE6/linkedin.png" />][linkedin] 
