@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Event Scheduler App (Python and Tkinter)</b>
+- <b>Event Scheduler App (Python, Tkinter)</b>
   - [Active Kingston](https://github.com/hacky-sacky/QHacks)
 - <b>CLI GitHub Finder (Javascript, Node.js)</b>
   - [Github User Finder CLI](https://github.com/jkerketta/CLI-Github-Finder)
-- <b>Netflix Landing Page (HTML, CSS, and Javascript)</b>
+- <b>Netflix Landing Page (HTML, CSS, Javascript)</b>
   - [Netflix Landing Page Clone](https://github.com/jkerketta/netflixlandingpage)
 - <b>Weather App (HTML, CSS, Javascript, OpenWeatherMap API)</b>
   - [Simple Weather App](https://github.com/jkerketta/weatherapplication)
