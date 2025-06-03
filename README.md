@@ -13,7 +13,7 @@
 
 <h2>⭐ Interests</h2>
 
-- 🌏 Travelling | Visited 15+ countries
+- 🌏 Travelling (Visited 15+ countries)
 - ⚽ Football 
 - 👾 FPS videogames
 - 🏠 Architecture and interior designing 
