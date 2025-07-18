@@ -6,8 +6,8 @@
   - [Active Kingston](https://github.com/hacky-sacky/QHacks)
 - <b>CLI GitHub Finder (Javascript, Node.js)</b>
   - [Github User Finder CLI](https://github.com/jkerketta/CLI-Github-Finder)
-- <b>Netflix Landing Page (HTML, CSS, Javascript)</b>
-  - [Netflix Landing Page Clone](https://github.com/jkerketta/netflixlandingpage)
+- <b>Plant Marketplace Web App (React, Typescript)</b>
+  - [Verdure](https://github.com/jkerketta/Verdure)
 - <b>Weather App (HTML, CSS, Javascript, OpenWeatherMap API)</b>
   - [Simple Weather App](https://github.com/jkerketta/weatherapplication)
 
