@@ -8,8 +8,8 @@
   - [Github User Finder CLI](https://github.com/jkerketta/CLI-Github-Finder)
 - <b>Plant Marketplace Web App (React, Typescript)</b>
   - [Verdure](https://github.com/jkerketta/Verdure)
-- <b>Weather App (HTML, CSS, Javascript, OpenWeatherMap API)</b>
-  - [Simple Weather App](https://github.com/jkerketta/weatherapplication)
+- <b>Chrome Extension for Asscessible Web Navigation (React, Tailwind, Manifest V3, Gemini API)</b>
+  - [Clearly](https://github.com/danielyu128/Clearly)
 
 <h2>⭐ Interests</h2>
 
