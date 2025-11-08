@@ -5,7 +5,7 @@
 <pre>
     🎓 Computer Science Student @ Queen's University
     💻 Fullstack Developer • React • Typscript • Node
-    🎮 Football • FPS games • Travelling • Piano • Architecture
+    🎮 Football • FPS Games • Travelling • Piano • Architecture
 </pre>
 <br>
 <h3>🌱 Currently...</h3>
