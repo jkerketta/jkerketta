@@ -1,44 +1,17 @@
-<h1>Hey, I'm Jose! <br/>Computer Science Student @ Queen's University</h1>
-
-<h2>👨‍💻 Personal Projects:</h2>
-
-- <b>Event Scheduler App (Python, Tkinter)</b>
-  - [Active Kingston](https://github.com/hacky-sacky/QHacks)
-- <b>CLI GitHub Finder (Javascript, Node.js)</b>
-  - [Github User Finder CLI](https://github.com/jkerketta/CLI-Github-Finder)
-- <b>Plant Marketplace Web App (React, Typescript)</b>
-  - [Verdure](https://github.com/jkerketta/Verdure)
-- <b>Chrome Extension for Asscessible Web Navigation (React, Tailwind, Manifest V3, Gemini API)</b>
-  - [Clearly](https://github.com/danielyu128/Clearly)
-
-<h2>⭐ Interests</h2>
-
-- 🌏 Travelling (Lived in 7 countries)
-- ⚽ Football 
-- 👾 FPS videogames
-- 🏠 Architecture and interior designing 
-- 🏹 Archery
-
-<h2> 🤳 Connect with me:</h2>
-
-<b>E: jose.kerketta@queensu.ca</b>
-
-<b>LinkedIn: </b>
-[<img alt="JoseKerketta | LinkedIn" width="22px" src="https://img.icons8.com/ios7/512/228BE6/linkedin.png" />][linkedin] 
-
-[linkedin]: https://www.linkedin.com/in/jose-kerketta/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BA5FF&width=435&lines=hello%2C+im+jose!" alt="Typing SVG" /></a>
+<br><br>
+<pre>
+    💼 Computer Science @ Queen's • Fullstack dev
+    🎮 Football • FPS games • Travelling • Piano • Architecture
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/jose-kerketta/)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+</div>
