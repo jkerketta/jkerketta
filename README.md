@@ -11,9 +11,9 @@
 <h3>🌱 Currently...</h3>
 <ul>
   <li>Building <em>Itineroo</em>, a group travel-planning webapp for Queen’s Tech &amp; Media Association</li>
-  <li>Getting into mobile development</li>
+  <li>Exploring mobile development 📱</li>
   <li>Learning Spanish 🇪🇸 and Russian 🇷🇺</li>
-  <li>Trying to make new recipes 🍛</li>
+  <li>Getting into ricing linux</li>
 </ul>
 <br><br>
 
