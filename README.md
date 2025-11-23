@@ -5,7 +5,7 @@
 <pre>
     🎓 Computer Science Student @ Queen's University
     💻 Fullstack Developer • 2x Hackathon Winner
-    🎮 Football • FPS Games • Travelling • Piano • Architecture
+    🎮 Football • FPS Games • Travelling • Piano • Donuts
 </pre>
 <br>
 <h3>🌱 Currently...</h3>
