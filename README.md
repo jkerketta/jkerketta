@@ -3,12 +3,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BA5FF&width=435&lines=hello%2C+im+jose+:)" alt="Typing SVG" /></a>
 <br>
 <pre>
-    🎓 Computer Science Student @ Queen's University
-    💻 Fullstack Developer • 2x Hackathon Winner
-    🎮 Football • FPS Games • Travelling • Piano • Donuts
+    Computer Science Student @ Queen's University
+    Fullstack Developer • 2x Hackathon Winner
+    Football • FPS Games • Travelling • Piano • Donuts
 </pre>
 <br>
-<h3>🌱 Currently...</h3>
+<h3>Currently...</h3>
 <ul>
   <li>Building <em>Trevo</em>, a group travel-planning webapp for Queen’s Tech &amp; Media Association</li>
   <li>Exploring mobile development 📱</li>
