@@ -11,9 +11,10 @@
 <h3>Currently...</h3>
 <ul>
   <li>Building <em>Trevo</em>, a group travel-planning webapp at Queen’s Tech &amp; Media Association</li>
-  <li>Exploring mobile development 📱</li>
+  <li>Exploring algo trading</li>
   <li>Learning Spanish 🇪🇸 and Russian 🇷🇺</li>
   <li>Getting into linux ricing</li>
+
 </ul>
 <br>
 <!-- include Font Awesome CDN in your README or HTML header -->
