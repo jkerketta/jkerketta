@@ -10,7 +10,7 @@
 <br>
 <h3>Currently...</h3>
 <ul>
-  <li>Building <em>Trevo</em>, a group travel-planning webapp for Queen’s Tech &amp; Media Association</li>
+  <li>Building <em>Trevo</em>, a group travel-planning webapp at Queen’s Tech &amp; Media Association</li>
   <li>Exploring mobile development 📱</li>
   <li>Learning Spanish 🇪🇸 and Russian 🇷🇺</li>
   <li>Getting into linux ricing</li>
