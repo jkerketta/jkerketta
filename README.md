@@ -13,7 +13,7 @@
   <li>Building <em>Trevo</em>, a group travel-planning webapp at Queen’s Tech &amp; Media Association</li>
   <li>Exploring algo trading</li>
   <li>Learning Spanish 🇪🇸 and Russian 🇷🇺</li>
-  <li>Getting into linux ricing</li>
+  <li>Ricing my linux setup</li>
 
 </ul>
 <br>
