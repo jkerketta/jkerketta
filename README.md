@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7BA5FF&width=435&lines=hello%2C+im+jose+:)" alt="Typing SVG" /></a>
 <br>
 <pre>
-    Computer Science Student @ Queen's University
+    CS + Stats @ Queen's University
     Fullstack Developer • 2x Hackathon Winner
     Shooter Games • Travelling • Football • Piano • Donuts
 </pre>
