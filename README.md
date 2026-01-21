@@ -5,7 +5,7 @@
 <pre>
     CS + Stats @ Queen's University
     Fullstack Developer • 2x Hackathon Winner
-    Shooter Games • Travelling • Football • Piano • Donuts
+    Archery • Travelling • Football • Piano • Donuts
 </pre>
 <br>
 <h3>Currently...</h3>
