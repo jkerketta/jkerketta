@@ -10,7 +10,7 @@
 <br>
 <h3>Currently...</h3>
 <ul>
-  <li>Building <em>[Tribe](https://www.wetribe.io/)</em>, a mobile and web-app for event discovery and ticketing</li>
+  <li>Building <em><a href="https://www.wetribe.io/">Tribe</a></em>, a mobile and web-app for event discovery and ticketing</li>
   <li>Exploring algo trading</li>
   <li>Learning Spanish 🇪🇸 and Russian 🇷🇺</li>
   <li>Ricing my linux setup</li>
