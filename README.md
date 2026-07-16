@@ -13,7 +13,7 @@
   <li>Building <em><a href="https://www.wetribe.io/" target="_blank">Tribe</a></em>, a mobile and web app for event discovery and ticketing</li>
   <li>Exploring algo trading</li>
   <li>Learning Spanish 🇪🇸 and Russian 🇷🇺</li>
-  <li>Playing Overwatch</li>
+  <li>Staring at charts</li>
 
 </ul>
 <br>
